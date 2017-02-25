@@ -12,6 +12,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Doc", "Doc", "{B266ED0D-263
 		Doc\readme.txt = Doc\readme.txt
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Screens", "Screens", "{9607FD9B-24F2-40E2-8B1A-2A1B5F84EDFB}"
+	ProjectSection(SolutionItems) = preProject
+		Screens\IMG_20170214_223312.jpg = Screens\IMG_20170214_223312.jpg
+		Screens\IMG_20170214_223455_HDR.jpg = Screens\IMG_20170214_223455_HDR.jpg
+		Screens\IMG_20170214_223605.jpg = Screens\IMG_20170214_223605.jpg
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
