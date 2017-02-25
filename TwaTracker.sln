@@ -5,6 +5,13 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TwaTracker", "TwaTracker.vcxproj", "{F2564ACD-ED05-4928-A9F8-EB0A6CC133E9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Doc", "Doc", "{B266ED0D-263D-4A4F-8D47-24BEEE9DCFF6}"
+	ProjectSection(SolutionItems) = preProject
+		Doc\IMG_20170205_001556_HDR.jpg = Doc\IMG_20170205_001556_HDR.jpg
+		Doc\IMG_20170205_001650_HDR.jpg = Doc\IMG_20170205_001650_HDR.jpg
+		Doc\readme.txt = Doc\readme.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86

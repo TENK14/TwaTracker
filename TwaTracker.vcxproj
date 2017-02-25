@@ -80,7 +80,20 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BaseWindow.h" />
+    <ClInclude Include="Button.h" />
+    <ClInclude Include="Context.h" />
+    <ClInclude Include="IKeyHandle.h" />
+    <ClInclude Include="IWindow.h" />
+    <ClInclude Include="WindowManager.h" />
+    <ClInclude Include="WindowMenu.h" />
     <ClInclude Include="__vm\.TwaTracker.vsarduino.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BaseWindow.cpp" />
+    <ClCompile Include="Context.cpp" />
+    <ClCompile Include="WindowManager.cpp" />
+    <ClCompile Include="WindowMenu.cpp" />
   </ItemGroup>
   <PropertyGroup>
     <DebuggerFlavor>VisualMicroDebugger</DebuggerFlavor>
