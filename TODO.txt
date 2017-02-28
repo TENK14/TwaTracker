@@ -1,0 +1,12 @@
+[1] SensorProvider
+Dodìlej tøídu SensorsProvider, která bude pøedávána do jednotlivých Window.
+Bude mít na starost naèítání hodnot ze sensorù a poskytování jejich hodnot (vèetnì historických - z pole/SD karty)
+Zde se bude i držet nastavení sensorù, která èidla jsou aktivní, s výjimkou doby svitu displaye, tato informace bude v ManageWindow.
+Sensor provider bude pøedáván v konstruktoru Window.
+
+[2] NeoGPS - vyzkoušej
+https://github.com/SlashDevin/NeoGPS
+This fully-configurable Arduino library uses minimal RAM, PROGMEM and CPU time, requiring as few as 10 bytes of RAM, 866 bytes of PROGMEM, 
+and less than 1mS of CPU time per sentence.
+
+

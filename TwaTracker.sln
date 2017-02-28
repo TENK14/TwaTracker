@@ -10,6 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Doc", "Doc", "{B266ED0D-263
 		Doc\IMG_20170205_001556_HDR.jpg = Doc\IMG_20170205_001556_HDR.jpg
 		Doc\IMG_20170205_001650_HDR.jpg = Doc\IMG_20170205_001650_HDR.jpg
 		Doc\readme.txt = Doc\readme.txt
+		TODO.txt = TODO.txt
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Screens", "Screens", "{9607FD9B-24F2-40E2-8B1A-2A1B5F84EDFB}"

@@ -1,6 +1,16 @@
 
+#include <cactus_io_BME280_I2C.h>
+#include "BMP180.h" // Pressure and Temperature sensor ///////////////////////////////////////////////
+#include "OzOLED.h" // max positions are [ROW=7,COL=16] for text
+#include <Wire.h>
+#include <SdFat.h> // pouzivano s 328P, pokusy o zprovozneni s 1284P
+
 #include "WindowManager.h"
 #include "WindowMenu.h"
+
+// Kvuli SD shieldu
+#define __AVR_ATmega1284P__
+#define MIGHTY_1284P_VARIANT
 
 WindowManager *windowManager;
 WindowMenu *windowMenu;
